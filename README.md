@@ -8,13 +8,10 @@ It has a simple definition that styles:
 * Sublime's various visual cues in the text area, including matched brackets
 and line / selection / find highlights.
 
+*Please let me know if you plan to redistribute this colour scheme.*
+
 ![Screenshot](https://github.com/frou/Sundried/raw/master/screenshot.png)
-
-***
-
-Licensed under [Creative Commons BY-SA 3.0][license].
 
 [homepage]: https://github.com/frou/Sundried
 [st2]: http://www.sublimetext.com/
 [tmlang]: http://manual.macromates.com/en/language_grammars#naming_conventions
-[license]: http://creativecommons.org/licenses/by-sa/3.0/
