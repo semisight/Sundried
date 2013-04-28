@@ -1,4 +1,4 @@
-[Sundried][homepage] is a colour scheme for [Sublime Text 2][st2]. I created it because I found most dark schemes out there (including Sublime's default) to look too "glowing neon".
+[Sundried][homepage] is a colour scheme for [Sublime Text][st]. I created it because I found most dark schemes out there (including Sublime's default) to look too "glowing neon".
 
 It has a simple definition that styles:
 
@@ -14,7 +14,7 @@ The following screenshot shows C source code as classified by my [CFeather][cf] 
 ![Screenshot](https://github.com/frou/Sundried/raw/master/screenshot.png)
 
 [homepage]: https://github.com/frou/Sundried
-[st2]: http://www.sublimetext.com/
+[st]: http://www.sublimetext.com/
 [tmlang]: http://manual.macromates.com/en/language_grammars#naming_conventions
 [spc]: http://wbond.net/sublime_packages/package_control
 [cf]: https://github.com/frou/CFeather
